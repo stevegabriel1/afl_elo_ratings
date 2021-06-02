@@ -9,3 +9,4 @@ The attraction of using Elo is that teams gain variable points for winning, depe
 There are two important formulas applied after each round of games - one for calculating updated rankings based on the latest results, and the second to calculate winning probabilities for for the next round, based on these rankings, and which teams are playing which.
 
 ![UOM Logo](/Users/steve_gabriel/Desktop/test-image.png)
+Format: ![Alt Text](url)
